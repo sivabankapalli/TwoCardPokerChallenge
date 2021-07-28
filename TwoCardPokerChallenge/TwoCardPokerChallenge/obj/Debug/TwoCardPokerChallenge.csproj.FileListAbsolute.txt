@@ -1,0 +1,14 @@
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Debug\TwoCardPokerChallenge.exe.config
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Debug\TwoCardPokerChallenge.exe
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Debug\TwoCardPokerChallenge.pdb
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Debug\TwoCardPokerChallenge.Contract.dll
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Debug\TwoCardPokerChallenge.Contract.pdb
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.csprojResolveAssemblyReference.cache
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.InputForm.resources
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.TwoCardPoker.resources
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.Properties.Resources.resources
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.csproj.GenerateResource.cache
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.csproj.CoreCompileInputs.cache
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.csproj.CopyComplete
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.exe
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Debug\TwoCardPokerChallenge.pdb

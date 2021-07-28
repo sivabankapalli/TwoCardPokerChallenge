@@ -1,0 +1,5 @@
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\bin\Debug\TwoCardPokerChallenge.Contract.dll
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\bin\Debug\TwoCardPokerChallenge.Contract.pdb
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\obj\Debug\TwoCardPokerChallenge.Contract.csproj.CoreCompileInputs.cache
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\obj\Debug\TwoCardPokerChallenge.Contract.dll
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\obj\Debug\TwoCardPokerChallenge.Contract.pdb

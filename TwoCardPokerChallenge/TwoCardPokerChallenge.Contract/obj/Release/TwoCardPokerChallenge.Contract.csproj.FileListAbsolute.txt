@@ -1,0 +1,7 @@
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\bin\Release\TwoCardPokerChallenge.Contract.dll
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\bin\Release\TwoCardPokerChallenge.Contract.pdb
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\obj\Release\TwoCardPokerChallenge.Contract.csproj.CoreCompileInputs.cache
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\obj\Release\TwoCardPokerChallenge.Contract.dll
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\obj\Release\TwoCardPokerChallenge.Contract.pdb
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\bin\Release\TwoCardPokerChallenge.Contract.dll.CodeAnalysisLog.xml
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge.Contract\bin\Release\TwoCardPokerChallenge.Contract.dll.lastcodeanalysissucceeded

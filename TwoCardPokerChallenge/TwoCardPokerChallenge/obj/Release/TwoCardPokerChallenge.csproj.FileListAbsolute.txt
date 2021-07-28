@@ -1,0 +1,16 @@
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Release\TwoCardPokerChallenge.exe.config
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Release\TwoCardPokerChallenge.exe
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Release\TwoCardPokerChallenge.pdb
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Release\TwoCardPokerChallenge.Contract.dll
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Release\TwoCardPokerChallenge.Contract.pdb
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.csprojResolveAssemblyReference.cache
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.InputForm.resources
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.TwoCardPoker.resources
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.Properties.Resources.resources
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.csproj.GenerateResource.cache
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.csproj.CoreCompileInputs.cache
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.csproj.CopyComplete
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.exe
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\obj\Release\TwoCardPokerChallenge.pdb
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Release\TwoCardPokerChallenge.exe.CodeAnalysisLog.xml
+C:\Siva\CodeChallenge\TwoCardPokerChallenge\TwoCardPokerChallenge\bin\Release\TwoCardPokerChallenge.exe.lastcodeanalysissucceeded
